@@ -1,5 +1,9 @@
 # Room Tablet Card
 
+![Room Tablet Card preview](docs/images/preview.png)
+
+*Rendered from the card code with example data (no real Home Assistant).*
+
 A fixed-layout wall-tablet dashboard card for Home Assistant (designed for 1280 × 800, scales to the
 screen): light control with two light groups (primary/secondary) and a jog dial, heating, room climate
 tiles with history bars, floor plan with window/door contacts, weather, audio/volume control and a
